@@ -1,23 +1,17 @@
-# Hi there, I'm Judah Benjamin! 👋
+Hey there !
 
-## About Me
-I'm a computer science major at the University of Tennessee Knoxville with a passion for coding and exploring the vast world of technology. 
-When I'm not immersed in lines of code, you can find me on the soccer field, experimenting with new recipes in the kitchen, or planning my next travel adventure. 
-I enjoy discussing various subjects, from the latest TV shows I've watched to my academic pursuits.
+I'm Judah Benjamin, a passionate computer science student at the University of Tennessee, Knoxville (Dean's List) on track to graduate in May 2026.  I'm fueled by a love for coding and all things tech, with a knack for building creative solutions.
 
-## Interests
-- 🖥️ Computer Science
-- ⚽ Soccer
-- 🍳 Cooking
-- ✈️ Traveling
+What I'm working on:
 
-## Current Learning Journey
-I'm currently diving into the world of C##, eager to expand my knowledge and skills in this exciting field.
+AI-driven traffic management: Collaborating on a project using cutting-edge algorithms to optimize traffic flow in Knoxville (check out my personal projects for more details!).
+Leveling up my skills: Currently diving deep into C#.
+When I'm not coding:
 
-## Collaboration Opportunities
-I'm open to collaboration on [mention specific projects, technologies, or areas of interest]. Let's team up and create something awesome together!
+Whipping up culinary creations: My kitchen is my playground.
+Planning epic adventures: I'm always on the lookout for new places to explore.
+Learning pottery: Discovering the beauty of shaping clay.
+Climbing: Reaching new heights, both physically and mentally.
+Excited to connect and collaborate!
 
-## How to Reach Me
-Feel free to reach out to me through [(952)-955-7477, judahjosh@gmail.com or (https://www.linkedin.com/in/judah-benjamin-a7a38a203/)]. I'm always up for a chat about coding, tech, or anything interesting!
-
-<!-- Connect with me on social media or check out my personal website [optional] -->
+I'm always interested in chatting about coding, tech, or anything that piques your curiosity.  Feel free to reach out if you're looking for someone passionate about building innovative solutions!
